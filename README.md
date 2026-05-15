@@ -128,4 +128,4 @@ Started building before anyone told him he could. Still going.
 
 📎 [LinkedIn](https://www.linkedin.com/in/adrianmontanez/) · [GitHub Profile](https://github.com/amontanez-dev)
 
-📎 LinkedIn · GitHub Profile
+
