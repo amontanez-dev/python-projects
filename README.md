@@ -47,42 +47,17 @@ Python is not a hobby. It is the upgrade. 🦾
 
 ## 🗂️ Projects
 
-*This section grows as the journey does.*
+### 🐍 Session 1 — The First Hello
+**Date:** May 1, 2026
 
-| Project | Concepts | Status |
-|---|---|---|
-| 🔜 Coming soon | — | In progress |
+The one that started everything. First time writing real Python.
 
----
+**Concepts covered:**
+- Variables — storing information
+- `print()` — displaying output
+- f-strings — combining text and variables cleanly
 
-## 📅 Timeline
-
-| Date | Milestone |
-|---|---|
-| May 2026 | Python journey begins |
-| May 2026 | CS50P enrolled — first lessons started |
-| May 2026 | Severus Snape deployed as Python mentor |
-| 🔜 | First script shipped |
-| 🔜 | First real tool built |
-
----
-
-## 🔑 Why This Repo Exists
-
-Most people hide their learning. They only show the finished product.
-
-This repo shows the work. The first clumsy script. The first function that finally ran clean. The first tool that did something real.
-
-If you are reading this and you are also at the beginning — you are not behind. You are exactly where every builder starts.
-
-> *The suit does not build itself. You build the suit.*
-
----
-
-## 👤 About the Builder
-
-**Adrian Montañez** — Apple Technical Specialist, AI agent builder, and self-taught developer.
-
-Started building before anyone told him he could. Still going.
-
-📎 [LinkedIn](https://www.linkedin.com/in/adrianmontanez/) · [GitHub Profile](https://github.com/amontanez-dev)
+**First program ever written:**
+```python
+name = "Adrian"
+print(f"Hello, {name}! Welcome to Python.")
